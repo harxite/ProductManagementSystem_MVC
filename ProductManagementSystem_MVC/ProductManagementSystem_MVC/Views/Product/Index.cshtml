@@ -1,0 +1,35 @@
+﻿@model IEnumerable<ProductManagementSystem_MVC.Models.Product>
+
+<h1>Products</h1>
+
+<p>
+    <a href="@Url.Action("Create", "Product")" class="btn btn-primary">Create New</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Description</th>
+            <th>Price</th>
+            <th>Stock</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Name</td>
+                <td>@item.Description</td>
+                <td>@item.Price</td>
+                <td>@item.Stock</td>
+                <td>
+                    <a href="@Url.Action("Details", "Product", new { id = item.ProductId })">Details</a> |
+                    <a href="@Url.Action("Edit", "Product", new { id = item.ProductId })">Edit</a> |
+                    <a href="@Url.Action("Delete", "Product", new { id = item.ProductId })">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

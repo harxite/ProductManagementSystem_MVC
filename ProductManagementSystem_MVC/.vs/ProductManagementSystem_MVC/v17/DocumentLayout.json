@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Harun\\Desktop\\Projects-Github\\ProductManagementSystem_MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30BD2763-A2F9-47C6-8F98-BB526BEDE6A1}|ProductManagementSystem_MVC\\ProductManagementSystem_MVC.csproj|c:\\users\\harun\\desktop\\projects-github\\productmanagementsystem_mvc\\productmanagementsystem_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30BD2763-A2F9-47C6-8F98-BB526BEDE6A1}|ProductManagementSystem_MVC\\ProductManagementSystem_MVC.csproj|solutionrelative:productmanagementsystem_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30BD2763-A2F9-47C6-8F98-BB526BEDE6A1}|ProductManagementSystem_MVC\\ProductManagementSystem_MVC.csproj|c:\\users\\harun\\desktop\\projects-github\\productmanagementsystem_mvc\\productmanagementsystem_mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{30BD2763-A2F9-47C6-8F98-BB526BEDE6A1}|ProductManagementSystem_MVC\\ProductManagementSystem_MVC.csproj|solutionrelative:productmanagementsystem_mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30BD2763-A2F9-47C6-8F98-BB526BEDE6A1}|ProductManagementSystem_MVC\\ProductManagementSystem_MVC.csproj|c:\\users\\harun\\desktop\\projects-github\\productmanagementsystem_mvc\\productmanagementsystem_mvc\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30BD2763-A2F9-47C6-8F98-BB526BEDE6A1}|ProductManagementSystem_MVC\\ProductManagementSystem_MVC.csproj|solutionrelative:productmanagementsystem_mvc\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30BD2763-A2F9-47C6-8F98-BB526BEDE6A1}|ProductManagementSystem_MVC\\ProductManagementSystem_MVC.csproj|c:\\users\\harun\\desktop\\projects-github\\productmanagementsystem_mvc\\productmanagementsystem_mvc\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30BD2763-A2F9-47C6-8F98-BB526BEDE6A1}|ProductManagementSystem_MVC\\ProductManagementSystem_MVC.csproj|solutionrelative:productmanagementsystem_mvc\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30BD2763-A2F9-47C6-8F98-BB526BEDE6A1}|ProductManagementSystem_MVC\\ProductManagementSystem_MVC.csproj|c:\\users\\harun\\desktop\\projects-github\\productmanagementsystem_mvc\\productmanagementsystem_mvc\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30BD2763-A2F9-47C6-8F98-BB526BEDE6A1}|ProductManagementSystem_MVC\\ProductManagementSystem_MVC.csproj|solutionrelative:productmanagementsystem_mvc\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30BD2763-A2F9-47C6-8F98-BB526BEDE6A1}|ProductManagementSystem_MVC\\ProductManagementSystem_MVC.csproj|c:\\users\\harun\\desktop\\projects-github\\productmanagementsystem_mvc\\productmanagementsystem_mvc\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30BD2763-A2F9-47C6-8F98-BB526BEDE6A1}|ProductManagementSystem_MVC\\ProductManagementSystem_MVC.csproj|solutionrelative:productmanagementsystem_mvc\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30BD2763-A2F9-47C6-8F98-BB526BEDE6A1}|ProductManagementSystem_MVC\\ProductManagementSystem_MVC.csproj|c:\\users\\harun\\desktop\\projects-github\\productmanagementsystem_mvc\\productmanagementsystem_mvc\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30BD2763-A2F9-47C6-8F98-BB526BEDE6A1}|ProductManagementSystem_MVC\\ProductManagementSystem_MVC.csproj|solutionrelative:productmanagementsystem_mvc\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30BD2763-A2F9-47C6-8F98-BB526BEDE6A1}|ProductManagementSystem_MVC\\ProductManagementSystem_MVC.csproj|c:\\users\\harun\\desktop\\projects-github\\productmanagementsystem_mvc\\productmanagementsystem_mvc\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30BD2763-A2F9-47C6-8F98-BB526BEDE6A1}|ProductManagementSystem_MVC\\ProductManagementSystem_MVC.csproj|solutionrelative:productmanagementsystem_mvc\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30BD2763-A2F9-47C6-8F98-BB526BEDE6A1}|ProductManagementSystem_MVC\\ProductManagementSystem_MVC.csproj|c:\\users\\harun\\desktop\\projects-github\\productmanagementsystem_mvc\\productmanagementsystem_mvc\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30BD2763-A2F9-47C6-8F98-BB526BEDE6A1}|ProductManagementSystem_MVC\\ProductManagementSystem_MVC.csproj|solutionrelative:productmanagementsystem_mvc\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30BD2763-A2F9-47C6-8F98-BB526BEDE6A1}|ProductManagementSystem_MVC\\ProductManagementSystem_MVC.csproj|c:\\users\\harun\\desktop\\projects-github\\productmanagementsystem_mvc\\productmanagementsystem_mvc\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{30BD2763-A2F9-47C6-8F98-BB526BEDE6A1}|ProductManagementSystem_MVC\\ProductManagementSystem_MVC.csproj|solutionrelative:productmanagementsystem_mvc\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30BD2763-A2F9-47C6-8F98-BB526BEDE6A1}|ProductManagementSystem_MVC\\ProductManagementSystem_MVC.csproj|c:\\users\\harun\\desktop\\projects-github\\productmanagementsystem_mvc\\productmanagementsystem_mvc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30BD2763-A2F9-47C6-8F98-BB526BEDE6A1}|ProductManagementSystem_MVC\\ProductManagementSystem_MVC.csproj|solutionrelative:productmanagementsystem_mvc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Harun\\Desktop\\Projects-Github\\ProductManagementSystem_MVC\\ProductManagementSystem_MVC\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProductManagementSystem_MVC\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Harun\\Desktop\\Projects-Github\\ProductManagementSystem_MVC\\ProductManagementSystem_MVC\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "ProductManagementSystem_MVC\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-30T14:20:40.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Harun\\Desktop\\Projects-Github\\ProductManagementSystem_MVC\\ProductManagementSystem_MVC\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProductManagementSystem_MVC\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Harun\\Desktop\\Projects-Github\\ProductManagementSystem_MVC\\ProductManagementSystem_MVC\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProductManagementSystem_MVC\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAiwHYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T14:18:48.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Harun\\Desktop\\Projects-Github\\ProductManagementSystem_MVC\\ProductManagementSystem_MVC\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ProductManagementSystem_MVC\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Harun\\Desktop\\Projects-Github\\ProductManagementSystem_MVC\\ProductManagementSystem_MVC\\appsettings.Development.json",
+              "RelativeToolTip": "ProductManagementSystem_MVC\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-30T14:12:00.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Harun\\Desktop\\Projects-Github\\ProductManagementSystem_MVC\\ProductManagementSystem_MVC\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "ProductManagementSystem_MVC\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Harun\\Desktop\\Projects-Github\\ProductManagementSystem_MVC\\ProductManagementSystem_MVC\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "ProductManagementSystem_MVC\\Repositories\\ProductRepository.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAkwC4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T14:11:35.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Harun\\Desktop\\Projects-Github\\ProductManagementSystem_MVC\\ProductManagementSystem_MVC\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ProductManagementSystem_MVC\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Harun\\Desktop\\Projects-Github\\ProductManagementSystem_MVC\\ProductManagementSystem_MVC\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "ProductManagementSystem_MVC\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-30T14:21:59.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Harun\\Desktop\\Projects-Github\\ProductManagementSystem_MVC\\ProductManagementSystem_MVC\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ProductManagementSystem_MVC\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Harun\\Desktop\\Projects-Github\\ProductManagementSystem_MVC\\ProductManagementSystem_MVC\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "ProductManagementSystem_MVC\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-30T14:21:39.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Harun\\Desktop\\Projects-Github\\ProductManagementSystem_MVC\\ProductManagementSystem_MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductManagementSystem_MVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\Harun\\Desktop\\Projects-Github\\ProductManagementSystem_MVC\\ProductManagementSystem_MVC\\appsettings.json",
+              "RelativeToolTip": "ProductManagementSystem_MVC\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-30T13:46:45.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Harun\\Desktop\\Projects-Github\\ProductManagementSystem_MVC\\ProductManagementSystem_MVC\\Program.cs",
+              "RelativeDocumentMoniker": "ProductManagementSystem_MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\Harun\\Desktop\\Projects-Github\\ProductManagementSystem_MVC\\ProductManagementSystem_MVC\\Program.cs",
+              "RelativeToolTip": "ProductManagementSystem_MVC\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T13:48:02.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Harun\\Desktop\\Projects-Github\\ProductManagementSystem_MVC\\ProductManagementSystem_MVC\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "ProductManagementSystem_MVC\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Harun\\Desktop\\Projects-Github\\ProductManagementSystem_MVC\\ProductManagementSystem_MVC\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "ProductManagementSystem_MVC\\Views\\Product\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-30T14:20:55.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Harun\\Desktop\\Projects-Github\\ProductManagementSystem_MVC\\ProductManagementSystem_MVC\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "ProductManagementSystem_MVC\\Views\\Product\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Harun\\Desktop\\Projects-Github\\ProductManagementSystem_MVC\\ProductManagementSystem_MVC\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "ProductManagementSystem_MVC\\Views\\Product\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-30T14:21:18.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Harun\\Desktop\\Projects-Github\\ProductManagementSystem_MVC\\ProductManagementSystem_MVC\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ProductManagementSystem_MVC\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Harun\\Desktop\\Projects-Github\\ProductManagementSystem_MVC\\ProductManagementSystem_MVC\\Models\\Product.cs",
+              "RelativeToolTip": "ProductManagementSystem_MVC\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T13:42:42.36Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
