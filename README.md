@@ -21,7 +21,7 @@ To set up the project on your local machine, follow these steps:
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/harxite/ProductManagementSystem.git
+    git clone https://github.com/harxite/ProductManagementSystem_MVC.git
     cd productManagementSystem_MVC
     ```
 
